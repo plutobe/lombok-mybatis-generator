@@ -1,2 +1,8 @@
 # lombok-mybatis-generator
-mybatis-generator by lombok plugin
+
+## run
+```
+mvn install
+```
+##### modify mybatis-generator.xml for yourself
+
